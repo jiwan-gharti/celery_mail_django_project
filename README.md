@@ -1,0 +1,1 @@
+# celery_mail_django_project
